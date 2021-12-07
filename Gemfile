@@ -40,6 +40,7 @@ gem "rb-fsevent", "0.11.0"
 gem 'spina', "2.0.2"
 gem "mediawiki_api"
 
+gem 'carrierwave', "2.2.2"
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri

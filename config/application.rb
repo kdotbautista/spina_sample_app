@@ -2,7 +2,7 @@ require_relative 'boot'
 
 require "rails"
 require "carrierwave"
-require "active_storage"
+require "activestorage"
 # Pick the frameworks you want:
 require "active_model/railtie"
 require "active_job/railtie"

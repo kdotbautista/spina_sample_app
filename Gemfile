@@ -37,7 +37,7 @@ gem "rb-fsevent", "0.11.0"
 # There was a migration issue on 0.11.1
 # TODO: update after new release
 #gem 'spina', ref: '2b2c8de5652de5844a40aa944c672e2f09cc36a0'
-gem 'spina', "2.5.0"
+gem 'spina', "2.4.0"
 gem "mediawiki_api"
 
 group :development, :test do
